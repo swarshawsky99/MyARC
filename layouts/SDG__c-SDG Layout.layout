@@ -93,12 +93,12 @@
             <actionName>SDG__c.Export_Wizard</actionName>
             <actionType>QuickAction</actionType>
             <sortOrder>2</sortOrder>
-        </platformActionListItems> -->
+        </platformActionListItems> 
         <platformActionListItems>
             <actionName>SDG__c.Help</actionName>
             <actionType>QuickAction</actionType>
             <sortOrder>3</sortOrder>
-        </platformActionListItems>
+        </platformActionListItems> -->
     </platformActionList>
     <showEmailCheckbox>false</showEmailCheckbox>
     <showHighlightsPanel>false</showHighlightsPanel>
