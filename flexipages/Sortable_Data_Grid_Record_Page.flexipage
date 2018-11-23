@@ -129,14 +129,14 @@
         <name>main</name>
         <type>Region</type>
     </flexiPageRegions>
-    <flexiPageRegions>
+<!--    <flexiPageRegions>
         <componentInstances>
             <componentName>sdgDesignerFieldFinder</componentName>
         </componentInstances>
         <mode>Replace</mode>
         <name>sidebar</name>
         <type>Region</type>
-    </flexiPageRegions>
+    </flexiPageRegions> -->
     <masterLabel>Sortable Data Grid Record Page v2</masterLabel>
     <parentFlexiPage>flexipage__default_rec_L</parentFlexiPage>
     <sobjectType>SDG__c</sobjectType>
