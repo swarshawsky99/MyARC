@@ -130,9 +130,9 @@
         <type>Region</type>
     </flexiPageRegions>
     <flexiPageRegions>
-        <componentInstances>
+      <!--  <componentInstances>
             <componentName>sdgDesignerFieldFinder</componentName>
-        </componentInstances>
+        </componentInstances> -->
         <mode>Replace</mode>
         <name>sidebar</name>
         <type>Region</type>
