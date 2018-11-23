@@ -725,7 +725,7 @@ public class sdgQueryEngineTest {
         result.isFiltered = (Boolean)m.get('isFiltered');
         result.isError = (Boolean) m.get('isError');
         result.ErrorMessage = (String)m.get('ErrorMessage');
-        result.data = (List<Object>)m.get('data');
+ //       result.data = (List<Object>)m.get('data');
         
         return result;
         
